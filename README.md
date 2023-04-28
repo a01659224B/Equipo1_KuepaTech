@@ -1,2 +1,2 @@
 # Equipo1_KuepaTech
-Repositorio donde se almacenará lo documentos del Equipo 1
+Repositorio donde se almacenará los documentos del Equipo 1
